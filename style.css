@@ -19,22 +19,22 @@ a {
 .tw a,
 .tw:before,
 .tw {
-    background: #55acee;
-    color: #55acee;
+    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
+     /* color: #55acee; */
 }
 
 .in a,
 .in:before,
 .in {
-    background: #e4405f;
-    color: #e4405f;
+    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
+    /*color: #e4405f; */
 }
 
 .gh a,
 .gh:before,
 .gh {
-    background: #333333;
-    color: #333333;
+    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
+    /*color: #333333; */
 }
 
 
@@ -60,7 +60,9 @@ ul#buttons:before {
     color: #4d4d4d;
     position: absolute;
     width: 100%;
-    text-align: center;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
     margin-top: -60px;
 }
 
