@@ -9,25 +9,25 @@ a {
     text-decoration: none;
 }
 
-.fb a,
+/*.fb a,
 .fb:before,
 .fb {
-    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
-     /* color: #3b5999; */
-}
+    background: #3b5999 ;
+    color: #3b5999; 
+}*/
 
 .tw a,
 .tw:before,
 .tw {
-    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
-     /* color: #55acee; */
+    background: #55acee;
+      color: #55acee; 
 }
 
 .in a,
 .in:before,
 .in {
-    background: https://github.com/Ranjith54321/ranjith54321.github.io/blob/master/image/hitesh-choudhary-XkArH-p8R6g-unsplash.jpg;
-    /*color: #e4405f; */
+    background: #e4405f;
+    color: #e4405f; 
 }
 
 .gh a,
@@ -61,8 +61,6 @@ ul#buttons:before {
     position: absolute;
     width: 100%;
     text-align: center; 
-    margin-left: auto;
-    margin-right: auto;
     margin-top: -60px;
 }
 
