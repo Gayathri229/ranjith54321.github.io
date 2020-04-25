@@ -2,10 +2,10 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1em;
+	background-image: "hitesh.jpg";
 }
-
 a {
-    color: #4d4d4d;
+     color: #4d4d4d;  /*  */  
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ ul#buttons {
     transform: translate(-50%, -50%);
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* here 4 */
     grid-gap: 10px;
 }
 
@@ -57,7 +57,8 @@ ul#buttons:before {
     font-size: 3em;
     font-family: Arial;
     font-weight: 300;
-    color: #4d4d4d;
+      color: #4d4d4d; 
+	/* background-image: hitesh.jpg; */
     position: absolute;
     width: 100%;
     text-align: center; 
