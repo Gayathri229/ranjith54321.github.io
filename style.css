@@ -53,7 +53,7 @@ ul#buttons {
 }
 
 ul#buttons:before {
-    content: "Ranjith_Dot";
+    content: "Ranjith_dot";
     font-size: 3em;
     font-family: Arial;
     font-weight: 300;
